@@ -1,9 +1,9 @@
 # Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/TitiRosa/TestGoogleSelenium/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/TitiRosa/TesteLogin/blob/main/LICENSE)
 
 # Sobre o projeto
 
-Este projeto consiste na realização de um teste na página no Google, na qual está sendo inserido palavras na parte de pesquisa e validados se a página está trazendo alguns textos.
+Este projeto consiste na realização de um teste em uma página html, na qual é verificado Login e Senha com sucesso, inválido, retorno de mensagens. E também é realizado teste para inserção de um produto
 
 # Tecnologias utilizadas
 - Java
