@@ -1,5 +1,5 @@
 # Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/TitiRosa/TestGoogleSelenium/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/TitiRosa/TesteLogin/blob/main/LICENSE)
 
 # Sobre o projeto
 
